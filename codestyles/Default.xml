@@ -1,31 +1,7 @@
 <code_scheme name="Default">
-  <JSCodeStyleSettings>
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-  </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
-  </TypeScriptCodeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
