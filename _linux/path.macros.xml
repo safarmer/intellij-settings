@@ -1,9 +1,5 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="KOTLIN_BUNDLED" value="/home/shane/apps/android-studio-3.0-canary1/plugins/Kotlin/kotlinc" />
-    <ignoredMacro name="MESSAGE" />
-    <ignoredMacro name="FILE_PATH" />
-    <ignoredMacro name="LINE" />
-    <ignoredMacro name="COLUMN" />
   </component>
 </application>
