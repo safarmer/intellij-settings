@@ -1,22 +1,25 @@
 <application>
   <component name="libraryTable">
-    <library name="jasmine-DefinitelyTyped" type="javaScript">
+    <library name="firebase-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jasmine_index.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_firebase_firebase-simplelogin.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_firebase_index.d.ts" />
         </sourceFilesUrls>
       </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_firebase_firebase-simplelogin.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_firebase_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jasmine-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jasmine_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="karma-jasmine-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_karma-jasmine_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_karma-jasmine_index.d.ts" />
       </CLASSES>
