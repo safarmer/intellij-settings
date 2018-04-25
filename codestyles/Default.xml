@@ -62,6 +62,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="BLACKLIST_IMPORTS" value="" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <XML>
