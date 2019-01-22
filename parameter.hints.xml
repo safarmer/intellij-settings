@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
+      <blacklist language="TypeScript">
+        <added pattern="React.Component.setState(state,callback)" />
+      </blacklist>
       <blacklist language="JavaScript" />
     </blacklists>
   </component>
