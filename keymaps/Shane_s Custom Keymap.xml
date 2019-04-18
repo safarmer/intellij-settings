@@ -6,10 +6,5 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="ReformatCode" />
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-  </action>
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>
