@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="shane@thatch.co">
+      <option name="address" value="943003287246.dkr.ecr.us-west-2.amazonaws.com/natinc/api" />
+      <option name="name" value="AWS Docker Registry" />
+      <option name="username" value="shane@nat.ai" />
+    </DockerRegistry>
+  </component>
+</application>
