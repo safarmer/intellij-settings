@@ -69,14 +69,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+      <debugger id="javascript">
+        <configuration watchReturnValues="true">
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
