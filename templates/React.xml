@@ -8,4 +8,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="rprops" value="interface OwnProps {&#10;}&#10;&#10;interface StateProps {&#10;}&#10;&#10;interface DispatchProps {&#10;}&#10;&#10;type Props = OwnProps &amp; StateProps &amp; DispatchProps;" description="Generate Redux State Props interfaces" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
