@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".releaserc" type="JSON" />
       <mapping pattern=".quokka" type="JSON5" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".clang-format" type="PLAIN_TEXT" />
@@ -8,6 +9,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".releaserc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
