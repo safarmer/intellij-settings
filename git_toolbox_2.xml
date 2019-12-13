@@ -18,6 +18,9 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="blameInlineAuthorNameType" value="INITIALS" />
+    <option name="blameStatusAuthorNameType" value="INITIALS" />
+    <option name="blameInlineShowSubject" value="false" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
