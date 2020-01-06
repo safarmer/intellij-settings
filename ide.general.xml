@@ -7,5 +7,7 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="focus.fix.lost.cursor" value="true" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="ide.new.color.picker" value="true" />
   </component>
 </application>
