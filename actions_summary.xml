@@ -2,10 +2,26 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="WelcomeScreen.OpenDirectoryProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581295160597" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="WelcomeScreen.OpenSelected">
           <value>
             <ActionSummary>
               <option name="last" value="1581295059308" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WelcomeScreen.Plugins">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581295100696" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -15,6 +31,22 @@
             <ActionSummary>
               <option name="last" value="1581295057496" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581295095047" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581295098397" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
