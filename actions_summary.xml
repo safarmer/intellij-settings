@@ -362,6 +362,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Exit">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581384419629" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
@@ -383,6 +391,14 @@
             <ActionSummary>
               <option name="last" value="1581372220176" />
               <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoImplementation">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581384414803" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
