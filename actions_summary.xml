@@ -69,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581372193706" />
-              <option name="times" value="346" />
+              <option name="last" value="1581461741666" />
+              <option name="times" value="350" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581371588893" />
-              <option name="times" value="11" />
+              <option name="last" value="1581461504450" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -583,6 +583,22 @@
             <ActionSummary>
               <option name="last" value="1581295057496" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$InstalledSearchOptionAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581461716655" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.TabHeaderComponent$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581461699240" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
