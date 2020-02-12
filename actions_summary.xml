@@ -405,8 +405,8 @@
         <entry key="InvalidateCaches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581371837991" />
-              <option name="times" value="2" />
+              <option name="last" value="1581461838727" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581371954514" />
-              <option name="times" value="26" />
+              <option name="last" value="1581465341983" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
