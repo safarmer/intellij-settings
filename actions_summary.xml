@@ -253,8 +253,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922272889" />
-              <option name="times" value="5450" />
+              <option name="last" value="1581980416049" />
+              <option name="times" value="5451" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922412370" />
-              <option name="times" value="1305" />
+              <option name="last" value="1581980733409" />
+              <option name="times" value="1311" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922514548" />
-              <option name="times" value="1061" />
+              <option name="last" value="1581980418547" />
+              <option name="times" value="1062" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922452543" />
-              <option name="times" value="687" />
+              <option name="last" value="1581980735543" />
+              <option name="times" value="688" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="ReformatWithPrettierAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922518254" />
-              <option name="times" value="409" />
+              <option name="last" value="1581981255790" />
+              <option name="times" value="410" />
             </ActionSummary>
           </value>
         </entry>
@@ -701,8 +701,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922518776" />
-              <option name="times" value="1151" />
+              <option name="last" value="1581981256800" />
+              <option name="times" value="1153" />
             </ActionSummary>
           </value>
         </entry>
@@ -818,6 +818,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.diff.actions.ProxyUndoRedoAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581980911506" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$ApplyNonConflictsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581981761976" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$MagicResolvedConflictsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581980971151" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
@@ -898,6 +922,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonSeveralFilesAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581981160186" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.lang.typescript.compiler.TypeScriptLanguageServiceToolWindowManager$2">
           <value>
             <ActionSummary>
@@ -949,8 +981,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581896959358" />
-              <option name="times" value="52" />
+              <option name="last" value="1581981796492" />
+              <option name="times" value="147" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +997,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581889121555" />
-              <option name="times" value="2" />
+              <option name="last" value="1581980800266" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
