@@ -1197,16 +1197,16 @@
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582080452116" />
-              <option name="times" value="719" />
+              <option name="last" value="1582088594744" />
+              <option name="times" value="720" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582080454982" />
-              <option name="times" value="815" />
+              <option name="last" value="1582088595144" />
+              <option name="times" value="816" />
             </ActionSummary>
           </value>
         </entry>
