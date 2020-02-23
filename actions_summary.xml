@@ -237,8 +237,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582089562924" />
-              <option name="times" value="240" />
+              <option name="last" value="1582500151588" />
+              <option name="times" value="241" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582080274327" />
-              <option name="times" value="256" />
+              <option name="last" value="1582500137639" />
+              <option name="times" value="261" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,16 +1205,16 @@
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582088594744" />
-              <option name="times" value="720" />
+              <option name="last" value="1582500133270" />
+              <option name="times" value="721" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582089876518" />
-              <option name="times" value="817" />
+              <option name="last" value="1582500136488" />
+              <option name="times" value="819" />
             </ActionSummary>
           </value>
         </entry>
