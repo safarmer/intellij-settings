@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".releaserc" type="JSON" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
       <mapping pattern=".quokka" type="JSON5" />
+      <mapping ext="json" type="JSON5" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".clang-format" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -15,6 +17,8 @@
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping pattern="common/config/rush/*.json" approved="true" type="JSON5" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
